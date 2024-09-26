@@ -5,7 +5,7 @@ Hey! I'm Nathan <img height="30px" src="https://emojis.slackmojis.com/emojis/ima
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-huy-dang-huynh//)](https://www.linkedin.com/in/nathan-huy-dang-huynh/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:danghuynhnathan@outlook.com)
 
-## A bit about me...  <img src="https://media.giphy.com/media/wJQ58AIpvpSxEjckkW/giphy.gif?cid=ecf05e47j4kxv962yjvtds9mjj51q5l2vj0y58ovtndjqwcm&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="50"> 
+## A bit about me...  <img src="https://media.giphy.com/media/wJQ58AIpvpSxEjckkW/giphy.gif?cid=ecf05e47j4kxv962yjvtds9mjj51q5l2vj0y58ovtndjqwcm&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="45"> 
 
 I'm a **Computer Science Student [@ The University of Adelaide](https://www.adelaide.edu.au/)** majoring in Artificial Intelligence. I'm passionate about exploring and working with new technologies. I'm always seeking to expand my knowledge and I enjoy building projects that solve people's problems. <br/><br/>
 
