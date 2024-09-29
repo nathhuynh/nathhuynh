@@ -4,7 +4,7 @@ Hey! I'm Nathan <img height="30px" src="https://emojis.slackmojis.com/emojis/ima
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-huy-dang-huynh//)](https://www.linkedin.com/in/nathan-huy-dang-huynh/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:danghuynhnathan@outlook.com)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-My%20Website-ff69b4?style=flat-square&logo=google-chrome&logoColor=white&link=nathandanghuynh.com)](nathandanghuynh.com)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ff69b4?style=flat-square&logo=google-chrome&logoColor=white&link=https://nathandanghuynh.com)](https://nathandanghuynh.com)
 
 
 ## A bit about me...  <img src="https://media.giphy.com/media/wJQ58AIpvpSxEjckkW/giphy.gif?cid=ecf05e47j4kxv962yjvtds9mjj51q5l2vj0y58ovtndjqwcm&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="45"> 
